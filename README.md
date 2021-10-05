@@ -1,1 +1,1 @@
-# demo-1
+# this is just a practice demo repo
